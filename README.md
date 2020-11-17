@@ -1,4 +1,4 @@
-# Website powered by React.js
+# Website developed with React.js
 
 Created with create-react-app
 
