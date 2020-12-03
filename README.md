@@ -1,4 +1,4 @@
-# Website developed with React.js
+# Website developed using React.js
 Created using create-react-app and published using gh-pages
 
 Live demo:
