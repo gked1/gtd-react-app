@@ -1,29 +1,27 @@
 {
   "files": {
-    "main.css": "/gtd-react-app/static/css/main.7836d286.chunk.css",
-    "main.js": "/gtd-react-app/static/js/main.3ce94dd5.chunk.js",
-    "main.js.map": "/gtd-react-app/static/js/main.3ce94dd5.chunk.js.map",
+    "main.css": "/gtd-react-app/static/css/main.1c498156.chunk.css",
+    "main.js": "/gtd-react-app/static/js/main.8c7aab75.chunk.js",
+    "main.js.map": "/gtd-react-app/static/js/main.8c7aab75.chunk.js.map",
     "runtime-main.js": "/gtd-react-app/static/js/runtime-main.02d27970.js",
     "runtime-main.js.map": "/gtd-react-app/static/js/runtime-main.02d27970.js.map",
     "static/css/2.1a02f21c.chunk.css": "/gtd-react-app/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.1318bf26.chunk.js": "/gtd-react-app/static/js/2.1318bf26.chunk.js",
-    "static/js/2.1318bf26.chunk.js.map": "/gtd-react-app/static/js/2.1318bf26.chunk.js.map",
+    "static/js/2.eafdf2a6.chunk.js": "/gtd-react-app/static/js/2.eafdf2a6.chunk.js",
+    "static/js/2.eafdf2a6.chunk.js.map": "/gtd-react-app/static/js/2.eafdf2a6.chunk.js.map",
     "index.html": "/gtd-react-app/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/gtd-react-app/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.7836d286.chunk.css.map": "/gtd-react-app/static/css/main.7836d286.chunk.css.map",
-    "static/js/2.1318bf26.chunk.js.LICENSE.txt": "/gtd-react-app/static/js/2.1318bf26.chunk.js.LICENSE.txt",
+    "static/css/main.1c498156.chunk.css.map": "/gtd-react-app/static/css/main.1c498156.chunk.css.map",
+    "static/js/2.eafdf2a6.chunk.js.LICENSE.txt": "/gtd-react-app/static/js/2.eafdf2a6.chunk.js.LICENSE.txt",
     "static/media/img_brian_circle.7e50fc0a.png": "/gtd-react-app/static/media/img_brian_circle.7e50fc0a.png",
     "static/media/img_danielle_circle.de6410ad.png": "/gtd-react-app/static/media/img_danielle_circle.de6410ad.png",
     "static/media/main.scss": "/gtd-react-app/static/media/img_hero.8c46f297.jpg",
-    "static/media/img_lisa_circle.106be30f.png": "/gtd-react-app/static/media/img_lisa_circle.106be30f.png",
-    "static/media/likeIconActive.20deca1a.jpg": "/gtd-react-app/static/media/likeIconActive.20deca1a.jpg",
-    "static/media/likeIconDisactive.51695727.jpg": "/gtd-react-app/static/media/likeIconDisactive.51695727.jpg"
+    "static/media/img_lisa_circle.106be30f.png": "/gtd-react-app/static/media/img_lisa_circle.106be30f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.02d27970.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.1318bf26.chunk.js",
-    "static/css/main.7836d286.chunk.css",
-    "static/js/main.3ce94dd5.chunk.js"
+    "static/js/2.eafdf2a6.chunk.js",
+    "static/css/main.1c498156.chunk.css",
+    "static/js/main.8c7aab75.chunk.js"
   ]
 }
