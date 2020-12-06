@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gtd-react-app/static/css/main.864dc598.chunk.css",
+    "main.css": "/gtd-react-app/static/css/main.678d1c68.chunk.css",
     "main.js": "/gtd-react-app/static/js/main.d0135cd1.chunk.js",
     "main.js.map": "/gtd-react-app/static/js/main.d0135cd1.chunk.js.map",
     "runtime-main.js": "/gtd-react-app/static/js/runtime-main.02d27970.js",
@@ -10,7 +10,7 @@
     "static/js/2.479fe1a1.chunk.js.map": "/gtd-react-app/static/js/2.479fe1a1.chunk.js.map",
     "index.html": "/gtd-react-app/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/gtd-react-app/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.864dc598.chunk.css.map": "/gtd-react-app/static/css/main.864dc598.chunk.css.map",
+    "static/css/main.678d1c68.chunk.css.map": "/gtd-react-app/static/css/main.678d1c68.chunk.css.map",
     "static/js/2.479fe1a1.chunk.js.LICENSE.txt": "/gtd-react-app/static/js/2.479fe1a1.chunk.js.LICENSE.txt",
     "static/media/down-blue.2555fd5c.svg": "/gtd-react-app/static/media/down-blue.2555fd5c.svg",
     "static/media/img_brian_circle.7e50fc0a.png": "/gtd-react-app/static/media/img_brian_circle.7e50fc0a.png",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.02d27970.js",
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.479fe1a1.chunk.js",
-    "static/css/main.864dc598.chunk.css",
+    "static/css/main.678d1c68.chunk.css",
     "static/js/main.d0135cd1.chunk.js"
   ]
 }
