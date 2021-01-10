@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/gtd-react-app/static/css/main.dafcdcbe.chunk.css",
-    "main.js": "/gtd-react-app/static/js/main.0fedffd8.chunk.js",
-    "main.js.map": "/gtd-react-app/static/js/main.0fedffd8.chunk.js.map",
+    "main.css": "/gtd-react-app/static/css/main.9d92ff7e.chunk.css",
+    "main.js": "/gtd-react-app/static/js/main.0b43f54e.chunk.js",
+    "main.js.map": "/gtd-react-app/static/js/main.0b43f54e.chunk.js.map",
     "runtime-main.js": "/gtd-react-app/static/js/runtime-main.02d27970.js",
     "runtime-main.js.map": "/gtd-react-app/static/js/runtime-main.02d27970.js.map",
     "static/css/2.1a02f21c.chunk.css": "/gtd-react-app/static/css/2.1a02f21c.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.c1ceb90e.chunk.js.map": "/gtd-react-app/static/js/2.c1ceb90e.chunk.js.map",
     "index.html": "/gtd-react-app/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/gtd-react-app/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.dafcdcbe.chunk.css.map": "/gtd-react-app/static/css/main.dafcdcbe.chunk.css.map",
+    "static/css/main.9d92ff7e.chunk.css.map": "/gtd-react-app/static/css/main.9d92ff7e.chunk.css.map",
     "static/js/2.c1ceb90e.chunk.js.LICENSE.txt": "/gtd-react-app/static/js/2.c1ceb90e.chunk.js.LICENSE.txt",
     "static/media/down-blue.faa137de.svg": "/gtd-react-app/static/media/down-blue.faa137de.svg",
     "static/media/img_brian_circle.7e50fc0a.png": "/gtd-react-app/static/media/img_brian_circle.7e50fc0a.png",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.02d27970.js",
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.c1ceb90e.chunk.js",
-    "static/css/main.dafcdcbe.chunk.css",
-    "static/js/main.0fedffd8.chunk.js"
+    "static/css/main.9d92ff7e.chunk.css",
+    "static/js/main.0b43f54e.chunk.js"
   ]
 }
