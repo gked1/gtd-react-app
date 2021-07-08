@@ -1,0 +1,168 @@
+body {
+	color: #666666;
+	/* background-color: #f8f8f8; */
+	text-align: center;
+	font-family: "Open Sans", sans-serif;
+	margin: 0;
+  padding: 0;
+}
+
+h1 {
+	font-size: 3.9em;
+	margin-left: -17%;
+}
+
+h1.how-it-started {
+	font-size: 2.9em;
+	color: #ffd200;
+	margin-left: 0%;
+}
+
+/* #page {
+	width: 700px;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #d6d6d6;
+	/* padding: 20px;
+ } */
+
+ /* color: #547ca0; */
+
+/* .wrapper-main-2 {
+    display: grid;
+		grid-template-rows: 5% 45% 35% 13%;
+		padding: 0;
+		margin:0
+} */
+
+.wrapper-up-footer {
+	background:	#666666;
+	height: 5%;
+	padding-top: 0.1%;
+}
+
+img {
+	margin-left: -45%;
+}
+
+p {
+	font-size: 0.9em;
+}
+
+p.thin {
+	line-height: 0.3em;
+	font-size: 0.7em;
+}
+
+p.thick {
+	line-height: 1.4em;
+	font-size: 0.9em;
+}
+
+p.thick-opacity {
+	line-height: 1.1em;
+	font-size: 0.9em;
+	opacity: .5;
+}
+
+p.thick-opacity-2 {
+	line-height: 1.1em;
+	font-size: 0.9em;
+	opacity: .1;
+}
+
+p.thick-join-us {
+	line-height: 3.0em;
+	font-size: 0.7em;
+}
+
+.wrapper-up {
+	background: url("../media/img_hero.jpg");
+	background-size: 73%;
+	background-repeat: repeat-x;
+	padding: 3.04% 0;
+}
+
+/* .wrapper-middle {
+	margin: auto 26%;
+	padding: 1% 0 2.6% 0;
+} */
+
+.wrapper-middle {
+	display: grid;
+	grid-template-columns: 80% 20%;
+	grid-column-gap: 18%;
+	margin: auto 12% 0 26%;
+	padding: 1.4% 0 3.3% 0;
+}
+
+.feedback {
+	margin-top: 60%;
+	color: #ffd200;
+	font-weight: bold;
+}
+
+.wrapper-down {
+	display: grid;
+	grid-template-columns: 25% 25% 25% 25%;
+	/* column-gap: 3%; */
+	background:	#666666;
+	color: #fff;
+	padding: 0 20% 0.4% 20%;
+	border-top: 7px solid #ffd200;
+	/* margin-left: auto;
+	margin-right: auto; */
+	/* padding: 0% 0% 16% 28%; */
+	/* margin-top: 15px; */
+}
+
+.font-header {
+	color: #ffd200;
+}
+
+.wrapper-icons {
+  display: grid;
+	grid-template-columns: 50% 50%;
+	/* grid-column-gap: 1%; */
+	/* margin-left: -35%; */
+}
+
+.tooltip {
+	font-weight: normal;
+}
+
+/* related to transition-group */
+
+/* .container {
+  position: relative;
+}
+
+.page {
+  position: absolute;
+  left: 15px;
+  right: 15px;
+}
+
+.page-enter {
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+.page-enter-active {
+  opacity: 1;
+  transform: scale(1);
+  transition: opacity 300ms, transform 300ms;
+}
+
+.page-exit {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.page-exit-active {
+  opacity: 0;
+  transform: scale(0.9);
+  transition: opacity 300ms, transform 300ms;
+} */
+
